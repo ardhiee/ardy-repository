@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkardi_blog=self.webpackChunkardi_blog||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/ardy-repository/blog","blogTitle":"Ardy Ismail blog!","authorsListPath":"/ardy-repository/blog/authors"}')}}]);

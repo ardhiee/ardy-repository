@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkardi_blog=self.webpackChunkardi_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"No code needed, auth with cognito and verified permission.","permalink":"/ardy-repository/blog/no-code-needed-auth-with-cognito-and-verified-permission","unlisted":false,"date":"2025-03-06T00:00:00.000Z"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkardi_blog=self.webpackChunkardi_blog||[]).push([[383],{5179:a=>{a.exports=JSON.parse('{"tags":[{"label":"aws","permalink":"/ardy-repository/blog/tags/aws","description":"AWS related article","count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkardi_blog=self.webpackChunkardi_blog||[]).push([[770],{2181:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ardy-repository/blog","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Practice makes power blog!","blogTitle":"Ardy Ismail blog!"}}')}}]);
