@@ -12,10 +12,11 @@
         <id>https://ardhiee.github.io/ardy-repository/blog/no-code-needed-auth-with-cognito-and-verified-permission</id>
         <link href="https://ardhiee.github.io/ardy-repository/blog/no-code-needed-auth-with-cognito-and-verified-permission"/>
         <updated>2025-03-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p>
-<p>This is my first post on Docusaurus 2.</p>
-<p>A whole bunch of exploration to follow.</p>]]></content>
+        <summary type="html"><![CDATA[I'm used to using Lambda Authorizer with Dynamo DB to control RBAC, but now everything change. And surprisingly it doesnt require any code.]]></summary>
+        <content type="html"><![CDATA[<p>I'm used to using Lambda Authorizer with Dynamo DB to control RBAC, but now everything change. And surprisingly it doesnt require any code.</p>
+<p>#Context
+#Action
+#Result</p>]]></content>
         <author>
             <name>Januardi Ismail</name>
             <uri>https://ardhiee.github.io</uri>
